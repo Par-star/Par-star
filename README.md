@@ -133,21 +133,18 @@ n8n
 
 ---
 
-# 📊 GitHub Analytics
 
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Par-star&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+## 📊 GitHub Analytics
 
-<img height="170" src="https://streak-stats.demolab.com?user=Par-star&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Par-star&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Par-star&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Par-star&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Par-star&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
