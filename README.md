@@ -8,85 +8,80 @@ AI & Machine Learning Engineer
 Building intelligent systems, AI agents & ML applications.
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;Generative+AI+Explorer;Building+Cool+Things+with+LLMs" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;Generative+AI+Explorer;Building+Cool+Things+with+LLMs"/>
 
 </div>
 
 ---
 
-# 📁 cat about_me.txt
+## 📁 cat about_me.txt
 
 ```bash
 Name        : Parika Chaudhary
 Role        : AI & Machine Learning Engineer
-Education   : B.Tech Computer Science (AI & Data Science)
+Education   : B.Tech CSE (AI & Data Science)
 Location    : India 🇮🇳
 
-Passionate about building AI-powered products that solve
-real-world problems through Machine Learning and Generative AI.
+Passionate about building AI-powered products
+using Machine Learning, LLMs and Automation.
 
-Currently exploring:
-• Large Language Models (LLMs)
-• AI Agents
+Currently Exploring:
+• Agentic AI
+• Generative AI
 • Retrieval-Augmented Generation (RAG)
-• Computer Vision
 • MLOps
-• Intelligent Automation
+• Computer Vision
+• AI Automation
 
 Mission:
-Build AI products that create real-world impact.
+Build AI products that solve real-world problems.
 ```
 
 ---
 
-# ⚡ status
+## ⚡ Current Status
 
 ```yaml
-Current Focus:
-  Learning:
-    - Agentic AI
-    - Advanced RAG
-    - Multi-Agent Systems
+Learning:
+  - Agentic AI
+  - Multi-Agent Systems
+  - Advanced RAG
 
-  Building:
-    - AI Automation Workflows
-    - LLM Applications
-    - AI Productivity Tools
+Building:
+  - AI Automation Workflows
+  - LLM Applications
+  - Machine Learning Projects
 
-  Looking For:
-    - AI / ML Internship Opportunities
-    - Open Source Collaborations
-
-  Fun Fact:
-    "I enjoy turning ideas into AI products."
+Looking For:
+  - AI/ML Internship Opportunities
+  - Open Source Collaboration
 ```
 
 ---
 
-# 📂 ls projects/
+## 🚀 Featured Projects
 
 ```text
-📦 AI Projects
-├── 🤖 AI Interview Assistant
-├── 🩺 AI Healthcare Chatbot
-├── 📄 Resume Analyzer
-├── 🎯 Career Recommendation System
-├── 🧠 LLM Applications
-├── ⚙️ AI Automation Workflows (n8n)
-└── 📊 Machine Learning Projects
+🤖 AI Interview Assistant
+🩺 AI Healthcare Chatbot
+📄 Resume Analyzer
+🎯 Career Recommendation System
+🧠 LLM Applications
+⚙️ AI Automation Workflows (n8n)
+📊 Machine Learning Projects
 ```
 
 ---
 
-# 🛠 Tech Stack
+## 💻 Tech Stack
 
-### 💻 Languages
+### Languages
 
 ```text
 Python • C++ • SQL • JavaScript
 ```
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 
 ```text
 TensorFlow
@@ -99,19 +94,18 @@ Pandas
 NumPy
 ```
 
-### ✨ Generative AI
+### Generative AI
 
 ```text
 LangChain
 LlamaIndex
 RAG
-Vector Databases
 Prompt Engineering
+Vector Databases
 Google Gemini API
-OpenAI API
 ```
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 ```text
 AWS
@@ -120,7 +114,7 @@ Docker
 GitHub Actions
 ```
 
-### 🔧 Tools
+### Tools
 
 ```text
 Git
@@ -133,22 +127,25 @@ n8n
 
 ---
 
-
-
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Par-star&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=Par-star&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Par-star&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Par-star&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Par-star&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Par-star&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Par-star&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Par-star&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 ```text
 🏅 Google Cloud Skills Boost
@@ -163,14 +160,12 @@ n8n
 
 🏅 Open Source Contributor
 
-🏅 AI & Machine Learning Projects
-
-🏅 Building AI Automation Systems
+🏅 AI Projects & Automation Workflows
 ```
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 ```text
 GitHub
@@ -190,11 +185,10 @@ your-email@example.com
 
 <div align="center">
 
-## 🚀 Let's Build Something Amazing Together!
+## 🚀 Let's Build Something Amazing!
 
-*"Artificial Intelligence is not just about building models—it's about solving meaningful problems."*
+*"Artificial Intelligence is meaningful when it solves real problems."*
 
-⭐ **If you like my work, consider starring my repositories!**
+⭐ If you like my work, consider starring my repositories.
 
 </div>
-
