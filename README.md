@@ -126,8 +126,7 @@ n8n
 ```
 
 ---
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Par-star&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
@@ -135,12 +134,7 @@ n8n
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Par-star&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Par-star&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Par-star&theme=tokyonight"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Par-star&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
