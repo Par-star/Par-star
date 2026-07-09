@@ -1,6 +1,6 @@
 <div align="center">
 
-# < Hello, I'm Parika Chaudhary />
+# 👋 Hello, I'm Parika Chaudhary
 
 ```bash
 $ whoami
@@ -14,43 +14,56 @@ Building intelligent systems, AI agents & ML applications.
 
 ---
 
-## 📁 cat about_me.txt
+# 📁 cat about_me.txt
 
 ```bash
 Name        : Parika Chaudhary
-Role        : AI & ML Engineer
-Education   : B.Tech CSE (AI & Data Science)
+Role        : AI & Machine Learning Engineer
+Education   : B.Tech Computer Science (AI & Data Science)
 Location    : India 🇮🇳
 
-Passionate about building AI products that solve real-world problems.
+Passionate about building AI-powered products that solve
+real-world problems through Machine Learning and Generative AI.
 
 Currently exploring:
-• Large Language Models
+• Large Language Models (LLMs)
 • AI Agents
+• Retrieval-Augmented Generation (RAG)
 • Computer Vision
 • MLOps
-• Generative AI
 • Intelligent Automation
 
 Mission:
-Build impactful AI products used by thousands.
+Build AI products that create real-world impact.
 ```
 
 ---
 
-## ⚡ status
+# ⚡ status
 
 ```yaml
-Status:
-  Learning: Agentic AI
-  Building: AI Projects
-  Looking for: AI/ML Internship Opportunities
-  Fun Fact: I enjoy turning ideas into AI products.
+Current Focus:
+  Learning:
+    - Agentic AI
+    - Advanced RAG
+    - Multi-Agent Systems
+
+  Building:
+    - AI Automation Workflows
+    - LLM Applications
+    - AI Productivity Tools
+
+  Looking For:
+    - AI / ML Internship Opportunities
+    - Open Source Collaborations
+
+  Fun Fact:
+    "I enjoy turning ideas into AI products."
 ```
 
 ---
 
-## 📂 ls projects/
+# 📂 ls projects/
 
 ```text
 📦 AI Projects
@@ -59,91 +72,132 @@ Status:
 ├── 📄 Resume Analyzer
 ├── 🎯 Career Recommendation System
 ├── 🧠 LLM Applications
-└── ⚙️ AI Automation Workflows (n8n)
+├── ⚙️ AI Automation Workflows (n8n)
+└── 📊 Machine Learning Projects
 ```
 
 ---
 
-## 🛠 tech_stack
+# 🛠 Tech Stack
+
+### 💻 Languages
 
 ```text
-Languages
 Python • C++ • SQL • JavaScript
-
-AI / ML
-TensorFlow • PyTorch • Scikit-Learn
-Transformers • Hugging Face • OpenCV
-
-Generative AI
-LangChain • LlamaIndex
-RAG • Vector Databases
-Prompt Engineering
-
-Cloud
-AWS • Google Cloud
-
-Tools
-Git • GitHub • Docker
-VS Code • Jupyter • Postman
 ```
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 achievements
+### 🤖 AI / Machine Learning
 
 ```text
-✓ Google Cloud Skills Boost
-✓ Harvard CS50 AI
-✓ Kaggle Generative AI Intensive
-✓ AI & ML Scholar
-✓ Multiple AI/ML Internships
-✓ Open Source Contributor
+TensorFlow
+PyTorch
+Scikit-Learn
+Transformers
+Hugging Face
+OpenCV
+Pandas
+NumPy
+```
+
+### ✨ Generative AI
+
+```text
+LangChain
+LlamaIndex
+RAG
+Vector Databases
+Prompt Engineering
+Google Gemini API
+OpenAI API
+```
+
+### ☁️ Cloud & DevOps
+
+```text
+AWS
+Google Cloud
+Docker
+GitHub Actions
+```
+
+### 🔧 Tools
+
+```text
+Git
+GitHub
+VS Code
+Jupyter Notebook
+Postman
+n8n
 ```
 
 ---
 
-## 🌐 connect
+# 📊 GitHub Analytics
 
-```bash
-GitHub    : https://github.com/YOUR_USERNAME
-LinkedIn  : https://linkedin.com/in/...
-Portfolio : https://...
-Email     : ...
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Par-star&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Par-star&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Par-star&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+```text
+🏅 Google Cloud Skills Boost
+
+🏅 Harvard CS50 AI
+
+🏅 Kaggle Generative AI Intensive
+
+🏅 Microsoft AI Skills Fest
+
+🏅 Multiple AI & Data Science Internships
+
+🏅 Open Source Contributor
+
+🏅 AI & Machine Learning Projects
+
+🏅 Building AI Automation Systems
+```
+
+---
+
+# 🌐 Connect With Me
+
+```text
+GitHub
+https://github.com/Par-star
+
+LinkedIn
+https://www.linkedin.com/in/parikachaudhary
+
+Portfolio
+https://parikachaudhary.lovable.app
+
+Email
+your-email@example.com
 ```
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by 👋
+## 🚀 Let's Build Something Amazing Together!
 
-```
-while(alive){
-    learn();
-    build();
-    improve();
-    repeat();
-}
-```
+*"Artificial Intelligence is not just about building models—it's about solving meaningful problems."*
 
-⭐ If you like my work, feel free to explore my repositories.
+⭐ **If you like my work, consider starring my repositories!**
 
 </div>
+
