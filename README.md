@@ -68,14 +68,7 @@ avi@github:~$ _
 
 </div>
 
-> ⚙️ **Why this is reliable now:** instead of pulling a live card from a shared public service (which gets rate-limited under heavy traffic and was showing broken for you), `github-metrics.svg` above is a **static file that lives in your own repo**, regenerated on a schedule by `.github/workflows/metrics.yml` using [lowlighter/metrics](https://github.com/lowlighter/metrics). It bundles your stats, top languages, and achievements (trophies) into one image, served by GitHub itself — nothing to rate-limit.
->
-> **One-time setup (2 minutes):**
-> 1. Go to [github.com/settings/tokens](https://github.com/settings/tokens) → **Generate new token (classic)** → tick the `read:user` scope → Generate.
-> 2. In this repo: **Settings → Secrets and variables → Actions → New repository secret** → name it `METRICS_TOKEN` → paste the token.
-> 3. Go to the **Actions** tab → **GitHub Metrics** → **Run workflow** once, to generate `github-metrics.svg` for the first time.
->
-> After that it refreshes automatically every 12 hours — no more broken cards.
+> Setup: add a `read:user` PAT as repo secret `METRICS_TOKEN`, then run the **GitHub Metrics** workflow once from the Actions tab.
 
 ---
 
@@ -88,7 +81,7 @@ avi@github:~$ _
 
 </div>
 
-> ⚙️ This snake is generated automatically every day by the GitHub Action in `.github/workflows/snake.yml`. On first push, run the workflow once manually (Actions tab → Generate Snake → Run workflow) so the `output` branch and SVG are created.
+> Setup: run the **Generate Snake** workflow once from the Actions tab.
 
 ---
 
