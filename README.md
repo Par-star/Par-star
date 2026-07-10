@@ -1,138 +1,164 @@
 <div align="center">
 
-# Hi, I'm Parika Chaudhary 👋
+# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Parika+Chaudhary;AI+Engineer;Building+LLMs+%26+AI+Agents;Open+Source+Contributor;Always+Learning+Something+New..." />
 
-### AI & Machine Learning Engineer | Building intelligent systems, AI agents & ML applications
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Building+Agentic+AI+Systems;RAG+%2B+LLMs+%2B+Automation;Open+to+AI%2FML+Internships)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parikachaudhary)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://parikachaudhary.lovable.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<img src="assets/source-prepped.png" width="420"/>
 
 </div>
 
 ---
 
-### 📁 about_me.txt
+```text
+┌─────────────────────────────────────────────┐
+│          INITIALIZING AI PORTFOLIO          │
+├─────────────────────────────────────────────┤
 
-```yaml
-Name        : Parika Chaudhary
-Role        : AI & Machine Learning Engineer
-Education   : B.Tech CSE (AI & Data Science)
-Location    : India 🇮🇳
+Loading Neural Network...
+██████████████████████████████ 100%
 
-Currently exploring:
-  - Agentic AI & Multi-Agent Systems
-  - Generative AI / LLMs
-  - Retrieval-Augmented Generation (RAG)
-  - MLOps
-  - Computer Vision
-  - AI Automation (n8n)
+Loading LLM Engine...
+██████████████████████████████ 100%
 
-Mission: Build AI products that solve real-world problems.
+Loading GitHub Profile...
+██████████████████████████████ 100%
+
+✔ AI Models Ready
+✔ Automation Ready
+✔ Portfolio Online
+
+Welcome, Visitor.
 ```
 
 ---
 
-### ⚡ Current Status
+# 👩‍💻 About Me
 
-| 🧠 Learning | 🛠️ Building | 🎯 Looking For |
-|---|---|---|
-| Agentic AI · Multi-Agent Systems · Advanced RAG | AI Automation Workflows · LLM Apps · ML Projects | AI/ML Internships · Open Source Collaboration |
+```bash
+parika@github:~$ whoami
 
----
+Name       : Parika Chaudhary
 
-### 🚀 Featured Projects
+Role       : AI Engineer
 
-- 🤖 **AI Interview Assistant**
-- 🩺 **AI Healthcare Chatbot**
-- 📄 **Resume Analyzer**
-- 🎯 **Career Recommendation System**
-- ⚙️ **AI Automation Workflows (n8n)** — Gmail + Calendar + Tasks + Gemini + Telegram, orchestrated end-to-end
-- 🧠 **LLM Applications**
-- 📊 **Machine Learning Projects**
+College    : JECRC University
 
----
+Focus      : LLMs • AI Agents • GenAI • ML
 
-### 💻 Tech Stack
+Currently  : Building AI Products
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+Learning   : LangGraph • MCP • RAG • AI Agents
 
-**AI / Machine Learning**
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+Open To    : AI/ML Internships
 
-**Generative AI**
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Vector DB](https://img.shields.io/badge/-Vector%20DB%20(Qdrant)-DC244C?style=flat-square&logo=qdrant&logoColor=white)
-
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+Status     : ☕ Turning coffee into code
+```
 
 ---
 
-### 📊 GitHub Analytics
+# 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Par-star&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Par-star&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Par-star&theme=tokyonight&hide_border=true" />
+<a href="YOUR_GITHUB">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Par-star&theme=tokyo-night&hide_border=true" />
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-</div>
-
-> 📈 These widgets pull live data from the GitHub API on every page load — stars, commits, streaks, and language mix stay current automatically, no manual updates needed.
-
----
-
-### 🏆 Achievements
-
-- 🏅 Google Cloud Skills Boost
-- 🏅 Harvard CS50 AI
-- 🏅 Kaggle Generative AI Intensive
-- 🏅 Microsoft AI Skills Fest
-- 🏅 Multiple AI & Data Science Internships
-- 🏅 Open Source Contributor
-- 🏅 AI Projects & Automation Workflows
+</p>
 
 ---
 
-### 🌐 Connect With Me
+# ⚙ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parikachaudhary)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://parikachaudhary.lovable.app)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,react,nodejs,mongodb,mysql,firebase,git,github,vscode,tensorflow,pytorch,docker,linux"/>
+
+</p>
 
 ---
 
-<div align="center">
+# 🚀 Featured Projects
 
-*"Artificial Intelligence is meaningful when it solves real problems."*
+⭐ AI Multiverse
 
-⭐ If you like my work, consider starring my repositories.
+⭐ AI Career Recommendation System
 
-</div>
+⭐ n8n AI Automation Workflows
+
+⭐ AI Healthcare Chatbot
+
+⭐ Prompt Engineering Toolkit
+
+⭐ Smart Notes Platform
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📉 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true"/>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> *"Build things that make people say — How did you make this?"*
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
+
+⭐ Thanks for visiting my profile!
