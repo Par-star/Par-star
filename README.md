@@ -1,16 +1,7 @@
 <div align="center">
 
-<!-- STATIC ASCII BANNER (no external image needed, always renders) -->
-
-```
-██████╗  █████╗ ██████╗ ██╗██╗  ██╗ █████╗
-██╔══██╗██╔══██╗██╔══██╗██║██║ ██╔╝██╔══██╗
-██████╔╝███████║██████╔╝██║█████╔╝ ███████║
-██╔═══╝ ██╔══██║██╔══██╗██║██╔═██╗ ██╔══██║
-██║     ██║  ██║██║  ██║██║██║  ██╗██║  ██║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-        Artificial Intelligence Engineer
-```
+<!-- ANIMATED BANNER — self-hosted SVG (assets/banner.svg), scrolls right-to-left, no external service -->
+<img src="https://raw.githubusercontent.com/Par-star/Par-star/main/assets/banner.svg" alt="banner"/>
 
 </div>
 
@@ -62,26 +53,22 @@ avi@github:~$ _
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Par-star/Par-star/main/github-metrics.svg" alt="GitHub Metrics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Par-star&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Par-star&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Par-star&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffea&fire=ff2079&currStreakLabel=00ffea" alt="Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Par-star&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 
 </div>
-
-> Setup: add a `read:user` PAT as repo secret `METRICS_TOKEN`, then run the **GitHub Metrics** workflow once from the Actions tab.
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 Trophies
 
 <div align="center">
 
-<!-- Generated automatically by .github/workflows/snake.yml -->
-<img src="https://raw.githubusercontent.com/Par-star/Par-star/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Par-star&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="trophies"/>
 
 </div>
-
-> Setup: run the **Generate Snake** workflow once from the Actions tab.
 
 ---
 
