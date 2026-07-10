@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320">
+<rect width="900" height="320" rx="12" fill="#0b1220"/>
+<circle cx="22" cy="20" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="20" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="20" r="6" fill="#27c93f"/>
+<text x="25" y="60" font-family="Consolas" font-size="18" fill="#00F5FF">$ boot jarvis</text>
+<text x="25" y="95" font-family="Consolas" font-size="18" fill="#ffffff">Initializing Neural Core...</text>
+<text x="25" y="130" font-family="Consolas" font-size="18" fill="#ffffff">Loading LLM Runtime...</text>
+<text x="25" y="165" font-family="Consolas" font-size="18" fill="#ffffff">System Status: ONLINE</text>
+<rect x="25" y="185" width="12" height="20" fill="#00F5FF">
+<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+</svg>
