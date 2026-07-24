@@ -10,7 +10,7 @@ Building AI Agents • LLM Apps • GenAI • Automation • Data Science
 
 <p>
 <a href="https://github.com/Par-star"><img src="https://img.shields.io/badge/GitHub-Par--star-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://www.linkedin.com/in/parika-chaudhary-b14034316/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 <img src="https://komarev.com/ghpvc/?username=Par-star&style=for-the-badge&color=00F5FF"/>
 </p>
 
@@ -63,6 +63,7 @@ Building AI Agents • LLM Apps • GenAI • Automation • Data Science
   Frameworks: .... TensorFlow, PyTorch, FastAPI, Streamlit
   Focus: ......... GenAI, LLM Apps, Agents, NLP, CV
   Currently: ..... Building Agentic AI Systems & RAG Pipelines
+  Contact: ....... chaudharyparika28@gmail.com
   Status: ........ Online, Compiling Dreams...
 ```
 
@@ -144,8 +145,8 @@ currently_building:
 
 <p align="center">
 <a href="https://github.com/Par-star">GitHub</a> •
-<a href="https://www.linkedin.com">LinkedIn</a> •
-<a href="mailto:your-email@example.com">Email</a>
+<a href="https://www.linkedin.com/in/parika-chaudhary-b14034316/">LinkedIn</a> •
+<a href="mailto:chaudharyparika28@gmail.com">Email</a>
 </p>
 
 ---
