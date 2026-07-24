@@ -36,6 +36,36 @@ Building AI Agents • LLM Apps • GenAI • Automation • Data Science
 
 # ABOUT ME
 
+```text
+                     .-'''''-.
+                   .'  _   _  '.
+                  /   (o) (o)   \
+                 |     ______    |
+                 |    /      \   |
+                  \  '.____.'   /
+                   '.        .'
+                     '-.___.-'
+                    /    |    \
+                   /     |     \
+                  |------+------|
+                  |   PAR-STAR  |
+                  '-------------'
+
+  ┌──────────────────────────────────────────────┐
+  │  guest@par-star:~$ whoami                       │
+  └──────────────────────────────────────────────┘
+
+  OS: ............ Windows / Linux
+  Uptime: ........ 20+ years, compiling since day one
+  Kernel: ........ B.Tech CSE (AI & Data Science)
+  Shell: ......... /bin/curiosity
+  Languages: ..... Python, C++, C
+  Frameworks: .... TensorFlow, PyTorch, FastAPI, Streamlit
+  Focus: ......... GenAI, LLM Apps, Agents, NLP, CV
+  Currently: ..... Building Agentic AI Systems & RAG Pipelines
+  Status: ........ Online, Compiling Dreams...
+```
+
 ```yaml
 name: Parika Chaudhary
 github: Par-star
@@ -59,9 +89,7 @@ currently_building:
 # TECH STACK
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,cpp,c,tensorflow,pytorch,sklearn,opencv,fastapi,flask,streamlit,docker,git,github,vscode,linux,mysql,postgres,mongodb,firebase,gcp,aws"/>
-
 </p>
 
 ---
@@ -69,17 +97,12 @@ currently_building:
 # GITHUB ANALYTICS
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Par-star&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://streak-stats.demolab.com?user=Par-star&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Par-star&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
@@ -87,9 +110,7 @@ currently_building:
 # TROPHIES
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=Par-star&theme=tokyonight&margin-w=12&no-frame=true&row=2&column=4"/>
-
 </p>
 
 ---
@@ -122,11 +143,9 @@ currently_building:
 # CONNECT
 
 <p align="center">
-
 <a href="https://github.com/Par-star">GitHub</a> •
 <a href="https://www.linkedin.com">LinkedIn</a> •
 <a href="mailto:your-email@example.com">Email</a>
-
 </p>
 
 ---
